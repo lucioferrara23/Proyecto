@@ -64,3 +64,16 @@ footer {
 .volver {
   color: white;
 }
+
+#informacion {
+  display: none;
+}
+
+#boton {
+  background-color: #185b83;
+  font-family: Arial, sans-serif;
+  border: none;
+  padding: 10px;
+  color: #f4f4f4;
+  border-radius: 5px;
+}
