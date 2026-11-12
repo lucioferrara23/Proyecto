@@ -77,3 +77,11 @@ footer {
   color: #f4f4f4;
   border-radius: 5px;
 }
+
+.trivia button {
+  padding: 10px;
+  background-color: #185b83;
+  color: #e1e8ec;
+  border: 0px;
+  border-radius: 8px;
+}
